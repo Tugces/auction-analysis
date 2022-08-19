@@ -63,9 +63,9 @@ For the first problem the calculateRevenue is created to calculated the  revenue
 |  9 |   9.00   |         1  |      -8.5  |
 
 In the calculation of revenue below formula is used:
-``` mermaid
-revenue = (revenuePerWin - bidPrice) * (eventForWin1 / totalEvent) * totalEvent
-``` 
+ 
+*revenue = (revenuePerWin - bidPrice) * (eventForWin1 / totalEvent) * totalEvent*
+
 
 *revenuePerWin=0.5 -> since it is already mentioned in the problem-2 definition*
 
